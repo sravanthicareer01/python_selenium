@@ -1,0 +1,23 @@
+String1.py
+==========
+1------>Reverse a string
+2------>Remove all whitespace from a string
+3---->Find Duplicate characters in string
+4--->Check two strings are anagrams
+5----> Count occurrences of each character in a string
+6--->Check whether one string is a rotation of another
+7---> Reverse each word of a string
+8---> Reverse a string while preserving the positions of spaces
+9--->Calculate percentages of uppercase, lowercase, digits and special characters
+10---> Find the longest substring without repeating characters
+String2.py
+==========
+11--->Find the first repeated and non-repeated characters in a string
+12--->Convert a string to an integer and an integer to a string
+13--->Reverse a sentence word by word
+14---> Remove all vowels from a string
+15---> Print all substrings of a string
+16---> Find common characters between two strings in alphabetical order
+17--->Find the most frequently occurring character in a string
+18--->Find the first non-repeating character in a string.
+19--->Reverse a string without using built-in methods.

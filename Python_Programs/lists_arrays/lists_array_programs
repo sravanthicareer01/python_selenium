@@ -1,0 +1,37 @@
+Lists_Arrays1.py
+=================
+1---> Check whether two arrays are equal
+2---> Find duplicate elements in an array
+3---> Find the second-largest number in an integer array
+4---> Find all pairs of elements whose sum equals a given number
+5---> Find a continuous subarray whose sum equals a given number
+6--->Find the intersection of two arrays
+7---> Separate zeros from non-zero elements in an array
+8---> Find the missing number in an array
+9---> Count occurrences of each element in an array
+10---> Reverse an array
+
+Lists_Arrays2.py
+================
+11--->Remove duplicate elements from an array
+12---> Remove an element from a list
+13--->Rotate an array
+14---> Find the most frequent element in an array
+15---> Find the union and intersection of multiple arrays
+16---> Reverse a list
+17---> Find contiguous subarrays with a given sum
+18---> Find the contiguous subarray with the maximum sum
+19--->Find the smallest and second-smallest elements in an integer array
+20---> Merge two sorted arrays
+
+Lists_Arrays3.py
+================
+21--->Merge two unsorted arrays
+22---> Merge two arrays into one sorted array without duplicates
+23---> Sort array elements by frequency
+24--->How to remove an element at specific index from an array?
+25--->How to remove specific element from an array?
+26--->How to remove multiple elements at different indices from an array?
+27--->How to remove multiple specific elements from an array?
+28--->How to remove all occurrences of an element in an array?
+29--->sort an array
